@@ -1,5 +1,5 @@
 # Defina o status ativo removendo o "#"
-#ativo
+ativo
 #manutenção
-inativo
+#inativo
 #suspenso
