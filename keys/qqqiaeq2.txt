@@ -1,2 +1,2 @@
-ativo
+#ativo
 #inativo
